@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller202501</string>
+    <string name="boton_aumentar">Incrementar fuente</string>
+    <string name="mensaje">HOLA MUNDO</string>
+    <string name="botonHome">ir a ventana principal</string>
+    <string name="texto_matematicas">Matematicas</string>
+    <string name="texto_fisica">Fisica</string>
+    <string name="texto_estadistica">Estadistica</string>
+    <string name="texto_matematicas2">Matematicas</string>
+    <string name="matematicas_texto">Matematicas</string>
+    <string name="fisica_texto">Fisica</string>
+</resources>

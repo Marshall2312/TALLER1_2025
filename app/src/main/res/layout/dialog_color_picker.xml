@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/redInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Rojo (0-255)"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:minWidth="48dp" />
+
+    <EditText
+        android:id="@+id/greenInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Verde (0-255)"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:minWidth="48dp" />
+
+    <EditText
+        android:id="@+id/blueInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Azul (0-255)"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:minWidth="48dp" />
+</LinearLayout>
